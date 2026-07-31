@@ -1,4 +1,3 @@
-# Matrix-operation
 # Matrix Operations in C
 
 ## Description
